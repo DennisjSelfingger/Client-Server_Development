@@ -1,0 +1,6 @@
+MYSQL_HOST=nv-desktop-services.apporto.com
+MYSQL_PORT=32361
+MYSQL_USER=root
+MYSQL_PASS=oejv5GsXwW
+
+export MYSQL_HOST MYSQL_PORT MYSQL_USER MYSQL_PASS
